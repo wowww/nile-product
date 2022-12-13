@@ -1,0 +1,155 @@
+{
+  "collection": "Collection",
+  "nft": "NFT",
+  "onSale": "ON SALE",
+  "discoverBtn": "Discover",
+  "hero": {
+    "nile": {
+      "desc": "Dive into the vision of NILE with NFT art pieces."
+    },
+    "lus": {
+      "desc": "Check out 264 pieces that connect viewers to nostalgic places in England."
+    },
+    "tangled": {
+      "desc": "Tangled Timepieces is a web3 live community app where users can directly form new communities and communicate with one another."
+    }
+  },
+  "noTransaction": "no transaction history",
+  "ranking": {
+    "title": "Ranking",
+    "tabBtn": "Frequent Transactions",
+    "tabBtn2": "Highest last sale",
+    "notice": "Settled in order of the biggest number of transactions that occurred in a given period",
+    "notice2": "Settled in order of the most expensive latest sale price",
+    "unit": "Ranking",
+    "unit2": "NFT",
+    "unit3": "Transactions a"
+  },
+  "detailTop": {
+    "resultMsg": "{{name}} wins auction\nwith a bid of <0>{{price}}</0><0>{{mark}}</0>",
+    "linkText1": "Exchange WEMIX$",
+    "linkText1-1": "Exchange WEMIX",
+    "linkText2": "View NILE Guide",
+    "saleFeatureMessage": "'Creating listing' feature will be available soon.",
+    "offerFeatureMessage": "'Make Offer' feature will be available soon."
+  },
+  "bottom": {
+    "title": "NFT is for Everyone",
+    "notice": "NILE Marketplace is expanding into numerous new markets every day."
+  },
+  "listing": {
+    "title": "Listing",
+    "txt": "When this piece is sold for the price above, you will be getting this much as profits for this sale, excluding the fees shown below.",
+    "txt2": "When registering a piece for sale, the Gas Fee shown below will occur.",
+    "txt2-1": "If you cancel or modify the registered sale, the Gas Fee shown below will occur.",
+    "txt3": "NILE Platform Fee {{rate}} %",
+    "txt4": "Creator Profit Distribution {{rate}} %",
+    "txt5": "Estimated Total Profits",
+    "txt6": "Gas Fee for Sale Registration: variable",
+    "txt7": "Estimated Gas Fee"
+  },
+  "buyMysteryBox": "Buy Mystery Box",
+  "snkrzInfo": "The SNKRZ Details page will be available from November 17th.",
+  "creator": "Rokkan Kim",
+  "collectionPage": {
+    "title": "London Underground Station(LUS) 264 Genesis",
+    "desc": "Check out the collection of London Underground Stations(LUS) 264 Genesis that describes 264 London stations in Pixel art.",
+    "headBtn": "Go to About This Collection",
+    "head": {
+      "btn": "About This Collection",
+      "btn2": "NFT Holder Benefits and Starting Bid Guide",
+      "data": {
+        "1": "Total Number of NFTs",
+        "2": "On Auction",
+        "3": "Floor Price",
+        "4": "Total Transaction Volume",
+        "5": "Auction Closed"
+      }
+    },
+    "searchPlaceholder": "Look up an NFT name.",
+    "nftName": "NFT name",
+    "type": "Type",
+    "transactionAmount": "Transaction Amount",
+    "time": "Date and Time",
+    "noSearch": "There are no search results.",
+    "noSearchKeyword": "There are no search results for '{{keyword}}'.",
+    "filter": {
+      "1": "All",
+      "2": "Sales",
+      "3": "Listing",
+      "4": "Offers",
+      "5": "Transfers"
+    },
+    "refund": "Get Refund"
+  },
+  "bidResultPage": {
+    "successTitle": "Bid successful",
+    "successDesc": "Once the auction is over, you will be notified.",
+    "cancelTitle": "Bid has been canceled",
+    "cancelDesc": "The canceled bid money has been returned to the Wallet.",
+    "checkoutCompleteTitle": "NFT claimed",
+    "checkoutCompleteDesc": "The NFT is available in your Wallet.",
+    "refundTitle": "Bid Returned!",
+    "refundDesc": "Your bid has been safely returned.",
+    "purchaseTitle": "NFT bought!",
+    "purchaseDesc": "Successfully bought NFT!"
+  },
+  "retractingTooltip": "이전 입찰 내역을 취소할 수 있습니다. \n취소 시 Gas Fee가 발생합니다.",
+  "dontGetOfferTooltip": "판매를 위해 Listing하지 않더라도, 내가 보유한 NFT에 관심이 있는 사용자가 자유롭게 가격을 제안할 수 있습니다. 가격 제안을 받고 싶지 않다면 미판매 상태로 변경해 주세요. 상태 변경 시 Gas Fee를 지불해야 합니다.",
+  "getOfferTooltip": "가격 제안을 받고 싶다면 Open for Offers 상태로 변경해 주세요. 판매를 위해 Listing하지 않더라도, 내가 보유한 NFT에 관심이 있는 사용자가 자유롭게 가격을 제안할 수 있게 됩니다. 상태 변경 시 Gas Fee를 지불해야 합니다.",
+  "listProcess": {
+    "waitingForConfirmation": {
+      "contTitle": "Listing",
+      "title": "Checking Wallet…",
+      "desc": "Your Wallet has been verified."
+    },
+    "waitingForListing": {
+      "contTitle": "Register for Sale",
+      "title": "Registering NFT for Sale…",
+      "desc": "Marketplace NFT registration has been requested, \nand transaction will be activated soon."
+    },
+    "successfully": {
+      "contTitle": "Listing",
+      "title": "NFT Registered for Sale!",
+      "desc": "NFT successfully registered for sale in the Marketplace."
+    },
+    "resultEdit": {
+      "contTitle": "Change Sale Registration",
+      "title": "NFT Re-registered for Sale!",
+      "desc": "NFT successfully re-registered for sale in the Marketplace."
+    },
+    "resultCancel": {
+      "contTitle": "Cancel Sale",
+      "title": "NFT Sale Canceled!",
+      "desc": "NFT sale successfully canceled in the Marketplace."
+    },
+    "resultChangeNotForSale": {
+      "contTitle": "Change Status",
+      "title": "Status changed!",
+      "desc": "NFT status successfully changed to 'Not for Sale'."
+    },
+    "resultAccept": {
+      "title": "Sale complete!",
+      "desc": "Congratulations. Your NFT has been successfully sold at a good price."
+    },
+    "resultChange": {
+      "title": "Status Changed!",
+      "desc": "NFT status successfully changed to 'Open for Offers'."
+    }
+  },
+  "detailHistory": {
+    "1": "Minted on the {{1}}.",
+    "2": "{{1}} started to sell.",
+    "3": "{{1}} placed the bid.",
+    "4": "{{1}} canceled the bid.",
+    "5": "{{1}} won the auction.",
+    "6": "{{1}} bought with {{2}} {{3}}.",
+    "7": "{{1}} made the offer of {{2}} {{3}}.",
+    "8": "{{1}} canceled the offer of {{2}} {{3}}.",
+    "9": "{{1}}’s offer of {{2}} {{3}} was expired.",
+    "10": "{{1}} bought with the offer of {{2}} {{3}}.",
+    "11": "Listed by {{1}}.",
+    "12": "{{1}} transferred to {{2}}."
+  },
+  "nileBannerTitle": "SON #2 Invitation"
+}

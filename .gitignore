@@ -1,0 +1,23 @@
+# npm
+node_modules
+# next.js build files
+.next
+# environment variables
+.env.local
+!.env.example
+
+# JetBrains IDE
+.idea
+*.iml
+/package-lock.json
+/yarn-error.log
+/public/sw.js
+/public/workbox-6a1bf588.js
+/storybook-static/*
+
+# log files
+*.log
+
+### macOS ###
+# General
+.DS_Store

@@ -1,0 +1,45 @@
+{
+  "representativeImage": "representative image",
+  "openProfile": "open profile",
+  "banner": {
+    "download": "Launch App",
+    "introduction": "Discover more",
+    "openInBrowser": "Open in Browser",
+    "text": "Papyrus is a messenger based on NILE Tokens.",
+    "imgAlt": "messenger image"
+  },
+  "card": {
+    "daoText": "A Community for {{name}} DAO members.",
+    "nftText": "A Community for {{name}} NFT holders.",
+    "needNFT": "You need to own an NFT to enter the Community.",
+    "needToken": "You need to buy {{token}} to enter the Community.",
+    "needDao": "You need to participate in {{dao}} DAO to enter the Community.",
+    "link": "Discover {{link}}",
+    "lastConversation": "Last Conversation",
+    "participate": "Join",
+    "totalMembers": "Total Members",
+    "nftVolume": "Total Accumulated NFT Transaction Volume",
+    "walletRequired": "Wallet required",
+    "connectWallet": "Wallet Connection needed.",
+    "connectWalletAnnounce": "Please connect your Wallet to enter the Community.",
+    "advice": "Participate in the {{daoName}} DAO, now recruiting!",
+    "participateComplete": "Participation complete! The Community will be open on {{mm}} {{dd}}."
+  },
+  "papyrus": {
+    "title-1": "Papyrus is a communication tool based on blockchain tokens.",
+    "text-1": "In the Web3 world, people need new methods of communication. Papyrus goes beyond logging in, finding and participating in Communities, and connects people with similar interests based on tokens and NFTs.",
+    "title-2": "Own a particular token or NFT? You'll automatically get into related Communities.",
+    "text-2": "In Papyrus, you don't need to find Communities yourself. Just by owning tokens and NFTs created on the WEMIX blockchain network ecosystem, you'll automatically get into related Communities. Like this, Community participants will be able to have more meaningful conversations.",
+    "title-3": "Various channels and DM will also be available in each Community.",
+    "text-3": "Each Community will have channel features so participants can talk about various topics.\nAnd participants can have separate conversations with specific participants using DM.\nOf course, all of these conversations will be between verified participants who own the same tokens or NFTs.",
+    "title-4": "You can take many paths to own Tokens and NFTs.",
+    "text-4": "You can buy and exchange tokens and NFTs on the various platforms of the WEMIX ecosystem.",
+    "title-5": "Claim tokens by participating in a DAO",
+    "text-5": "You can get DAO Tokens by participating in a DAO that is recruiting, or in one of your DAOs when the Station is open additionally.",
+    "title-6": "Buy in WEMIX.Fi",
+    "text-6": "You can buy DAO Tokens in WEMIX's official DeFi Service. You can use the Swap feature to exchange DAO Tokens.",
+    "title-7": "Buy NFT",
+    "text-7": "Various NFTs are up for sale in the NILE Marketplace. Buy an NFT here to participate in a related Community."
+  },
+  "unfoldingSoon": "Community will be open soon."
+}

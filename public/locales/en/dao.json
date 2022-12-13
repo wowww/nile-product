@@ -1,0 +1,348 @@
+{
+  "individualHome": {
+    "timeline": {
+      "title": "Operating Timeline in Neith Protocol",
+      "desc": "Clicking a protocol card, then display timeline information for that protocol."
+    }
+  },
+  "station": {
+    "title": "Neith Protocol & Smart Contract",
+    "neithProtocol": {
+      "title": "Neith Protocol",
+      "desc": "Generally, Protocol in DAO means System. The term DAO stands for “decentralized autonomous organization” and can be described as an open-source blockchain protocol governed by a set of rules, created by its elected members, that automatically execute certain actions without the need for intermediaries. Neith Protocol is an important seven elements that make WONDER DAO work. Each element will operate the DAO, playing its own role. In WONDER DAO, the protocol operates in 6 elements."
+    },
+    "smartContract": {
+      "title": "Smart Contract",
+      "desc": "Smart Contract is a protocol for running DAO. Each point that constitutes the Nate Protocol operates by a defined smart contract. The established conventions can be modified or changed through governance."
+    },
+    "operationSystem": {
+      "title": "WONDER DAO Operating System",
+      "station": {
+        "title1": "Role of Station",
+        "desc1": "Station is responsible for recruiting DAO members. It provides various information (mission, reward, operation method, etc.) that users need to know to participate in DAO.",
+        "title2": "Smart Contract in Station",
+        "desc2": "Smart Contract at Station stipulates the recruitment operation method. This can be established through the Governance Agenda.",
+        "item": {
+          "0": {
+            "text": "When DAO is formed, DAO Tokens are distributed according to the amount of DAO Token issued by the amount of participation. "
+          },
+          "1": {
+            "title": "Initial recruitment",
+            "list": {
+              "0": {
+                "text": "Recruitment conditions cannot be set for initial recruitment"
+              },
+              "1": {
+                "text": "Initial Recruitment Results",
+                "desc": "Final amount raised : 1,500,000.0000 WEMIX / Wonder Total Issue : 1,000,0000 WDR  [Update : 2022-10-01 11:30]"
+              }
+            }
+          },
+          "2": {
+            "title": "Additional recruitment",
+            "list": {
+              "0": {
+                "text": "Minimum recruitment amount and currency unit can be set"
+              },
+              "1": {
+                "text": "WONDER total issuance can be set"
+              },
+              "2": {
+                "text": "Recent Additional Recruitment Results",
+                "desc": "Final amount raised : 1,500,000.0000 WEMIX / Wonder Total Issue : 1,000,0000 WDR  [Update : 2022-10-01 11:30]"
+              }
+            }
+          }
+        }
+      },
+      "treasury": {
+        "title1": "Treasury의 역할",
+        "desc1": "Treasury는 DAO의 자금이 모이고 보관되는 커뮤니티 금고입니다. 자금의 유입은 Station을 통한 모집, DAO 사업의 결과로부터 비롯되고, 자금의 사용은 DAO 사업을 위한 자금, DAO 컨트랙트 실행을 위한 운영비용 등에 사용됩니다. DAO의 자금은 온체인 거버넌스 결의를 통해 사용됩니다.",
+        "title2": "Smart Contract in Treasury",
+        "item": {
+          "0": {
+            "text": "Treasury에서의 Smart Contract는 Treasury내 자금 사용 및 보관 방식 규정합니다. 이는 거버넌스 안건을 통해 정할 수 있습니다.",
+            "list": {
+              "0": {
+                "text": "보관자금을 사업자금으로 사용 가능"
+              },
+              "1": {
+                "text": "보관자금 중 일부 금액을 특정 통화단위로 변경하거나 수량을 지정하여 보관 가능"
+              }
+            }
+          }
+        }
+      },
+      "trust": {
+        "title1": "Trust의 역할",
+        "desc1": "Trust는 원더다오의 이름과 권한을 위임받아 오프체인 환경에서 계약 대상이 되는 기관입니다. 투자 실행에 대한 정보를 확인할 수 있습니다.",
+        "title2": "Smart Contract in Trust",
+        "item": {
+          "0": {
+            "text": "Trust에서의 Smart Contract는 Trust로 유입된 수익금의 관리 방식을 규정합니다. 이는 거버넌스 안건을 통해 정할 수 있습니다.",
+            "list": {
+              "0": {
+                "text": "Trust 지갑주소 추가/변경 수정 가능"
+              },
+              "1": {
+                "text": "사업 수익 분배 비율 설정 가능",
+                "list2": {
+                  "0": {
+                    "text": "사업별 분배 비율 설정 현황",
+                    "list3": {
+                      "0": {
+                        "text": "'사업명1'",
+                        "desc": "Treasury 준비금 : Wonder 매입 자금 (Furnace로 전송) = <0>{{strong1}}</0> / 수수료 비율 : <1>{{strong2}}</1> [업데이트 일자 : 2022-10-01 11:30]"
+                      },
+                      "1": {
+                        "text": "'사업명2'",
+                        "desc": "Treasury 준비금 : Wonder 매입 자금 (Furnace로 전송) = <0>{{strong1}}</0> / 수수료 비율 :2% [업데이트 일자 : 2022-10-01 11:30]"
+                      },
+                      "2": {
+                        "text": "'사업명3'",
+                        "desc": "Treasury 준비금 : Wonder 매입 자금 (Furnace로 전송) = <0>{{strong1}}</0> / 수수료 비율 : 2% [업데이트 일자 : 2022-10-01 11:30]"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "furnace": {
+        "title1": "Furnace의 역할",
+        "desc1": "DAO 수익을 활용해 Furnace는 유통중인 WONDER(DAO Token)를 매입하고, 이 중 일부를 Furnace에서 소각시켜 WONDER(DAO Token)의 가치 상승을 유도합니다.",
+        "title2": "Smart Contract in Furnace",
+        "item": {
+          "0": {
+            "text": "Furnace에서의 Smart Contract는 매입을 통해 Furnace로 유입된 Wonder에 대한 관리 방식을 규정합니다. 이는 거버넌스 안건을 통해 정할 수 있습니다.",
+            "list": {
+              "0": {
+                "text": "Wonder 매입 자금 분배 비율 설정 가능",
+                "list2": {
+                  "0": {
+                    "text": "사업별 분배 비율 설정 현황",
+                    "list3": {
+                      "0": {
+                        "text": "'사업명1'",
+                        "desc": "거버넌스 보상(Staking Pool 전송) : 소각 = <0>{{strong1}}</0> [업데이트 일자 : 2022-10-01 11:30]"
+                      },
+                      "1": {
+                        "text": "'사업명2'",
+                        "desc": "거버넌스 보상(Staking Pool 전송) : 소각 = <0>{{strong1}}</0> [업데이트 일자 : 2022-10-01 11:30]"
+                      },
+                      "2": {
+                        "text": "'사업명3'",
+                        "desc": "거버넌스 보상(Staking Pool 전송) : 소각 = <0>{{strong1}}</0> [업데이트 일자 : 2022-10-01 11:30]"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "stakingPool": {
+        "title1": "Staking Pool의 역할",
+        "desc1": "Staking Pool은 보유중인 Wonder(WDR)를 스테이킹하고, Governance Token, g.Wonder(g.WDR)를 획득할 수 있는 곳입니다. WONDER DAO 멤버는 g.Wonder를 보유하고 안건에 참여함으로 DAO의 성장을 이끌어가게 됩니다. 또한 DAO 리워드를 사용해 매입된 Wonder의 일부가 이곳에 공급됨으로 g.Wonder를 통한 보상이 이뤄지게 됩니다.",
+        "title2": "Smart Contract in Staking Pool",
+        "item": {
+          "0": {
+            "text": "Staking Pool에서의 Smart Contract는 Wonder와 g.Wonder에 대한 획득 및 공급을 관리합니다.",
+            "list": {
+              "0": {
+                "text": "Staking : 사용자가 보유하고 있는 Wonder를 Staking하면 교환비율에 따라 g.Wonder를 지급"
+              },
+              "1": {
+                "text": "Unstaking : 사용자가 보유하고 있는 g.Wonder를 반납하면 교환비율에 따라 Wonder를 Unstaking"
+              },
+              "2": {
+                "text": "Wonder : g.Wonder 교환 비율 현황",
+                "desc": "Wonder : g.Wonder = <0>{{strong1}}</0> [업데이트 일자 : 2022-10-01 11:30]"
+              }
+            }
+          }
+        }
+      },
+      "governance": {
+        "title1": "Governance의 역할",
+        "desc1": "g.Wonder Token을 보유한 거버넌스 참여자들이 안건을 올리고 투표를 통해 WONDER DAO 운영에 관한 사항을 결정하는 곳입니다. ‘Discussions’에서 자유로운 토론이 가능하며, ‘Propsals’에서 진행되는 투표의 과정과 결과는 On-chain에서 이루어지고 스마트컨트랙트로 실행되어 투명한 DAO 운영을 지원합니다.",
+        "title2": "Smart Contract in Governance",
+        "item": {
+          "0": {
+            "text": "Governance에서의 Smart Contract는 DAO운영에 관련된 다양한 안건을 실행을 위한 지원을 합니다.",
+            "list": {
+              "0": {
+                "text": "거버넌스 안건 종류",
+                "list2": {
+                  "0": {
+                    "text": "Station",
+                    "desc1": "추가 모집 (DAO Token 추가 발행)"
+                  },
+                  "1": {
+                    "text": "Treasury",
+                    "desc1": "자금 사용",
+                    "desc2": "보관자금 통화 변경"
+                  },
+                  "2": {
+                    "text": "Trust",
+                    "desc1": "Trust 지갑주소 변경/추가",
+                    "desc2": "DAO 수익 분배 비율 변경"
+                  },
+                  "3": {
+                    "text": "Furnace",
+                    "desc1": "매입 Wonder 분배 비율 변경"
+                  },
+                  "4": {
+                    "text": "Governance",
+                    "desc1": "Proposal 진행 조건변경"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "trust": {
+    "title": "Trust",
+    "desc": "Trust is an agency that is entrusted with the name and authority of WONDER DAO and becomes the subject of the contract in an Off-chain environment. You can check information on investment execution and distribution operations conducted by agencies.",
+    "chart": {
+      "name": "Trust Rate of Return",
+      "summary": "Rate of Return Now"
+    },
+    "report": {
+      "title": "Trust Report",
+      "item": {
+        "0": "Total Amount of Accumulated Reward (From PTE)",
+        "1": "Total Accumualted Inflows",
+        "2": "Total Accumulated Outflows",
+        "3": "Total Accumulated Fee"
+      }
+    },
+    "about": {
+      "title": "TRUST in WONDER DAO",
+      "desc": "Designated Trust Agency",
+      "item": {
+        "0": {
+          "title": "Introduce",
+          "desc": "We make investments based on stability, transparency and profitability.",
+          "list": {
+            "0": {
+              "desc": "It is the place where the name and authority of the WONDER DAO are delegated, and the subject of the contract in the execution, management and off-chain of the business."
+            },
+            "1": {
+              "title": "Trust Contact",
+              "list2": {
+                "0": "Contract Address : 0xabcdefghijklmnop1234567890abcd",
+                "1": "Explorer Link : https://www.wemixexplorer.com(TBD)"
+              }
+            },
+            "2": {
+              "title": "Trust Wallet",
+              "list2": {
+                "0": "Wallet Address : 0xabcdefghijklmnop1234567890abcd",
+                "1": "Explorer Link : https://www.wemixexplorer.com(TBD)"
+              }
+            }
+          }
+        },
+        "1": {
+          "title": "Work",
+          "list": {
+            "0": {
+              "desc": "WEMIX3.0 NCP Staking"
+            },
+            "1": {
+              "desc": "Participation in WEMIX3.0 governance"
+            },
+            "2": {
+              "desc": "Withdraw NCP Rewards"
+            },
+            "3": {
+              "desc": "Distribution of the withdrawn compensation (Treasury reserve, - distribution according to the ratio set according to the purpose of DT purchase)"
+            },
+            "4": {
+              "desc": "DT purchase and processing of purchased DT (transferred to DT's staking pool and incinerated in Furnace)"
+            },
+            "5": {
+              "desc": "Other tasks related to the use of Treasury funds"
+            }
+          }
+        },
+        "2": {
+          "title": "Profit",
+          "list": {
+            "0": {
+              "desc": "3% of the amount the Trust sends/receives"
+            }
+          }
+        }
+      }
+    },
+    "activity": {
+      "select": {
+        "0": "All Business"
+      },
+      "tooltip": {
+        "name": "Profit sharing ratio of the business",
+        "fee": "Trust Fee",
+        "treasuryRate": "Treasury Funding Ratio",
+        "furnaceRate": "Furnace Funding Ratio"
+      }
+    }
+  },
+  "treasury": {
+    "title": "Treasury",
+    "desc": "Treasury serves as a ‘Vault’ for the community where all the funds of the DAO are kept. You can check the status of the deposited profits collected and the investment and operating funds are withdrawn. Funds are held in WEMIX$ currency units.",
+    "chart": {
+      "title": "Total Flow in Treasury",
+      "name": "Treasury now",
+      "summary": "Rate of Return Now",
+      "legend": {
+        "0": "Inflow",
+        "1": "Outflow",
+        "2": "Total Amount of Treasury"
+      }
+    },
+    "information": {
+      "title": "Currency Information"
+    },
+    "activity": {
+      "title": "Activity"
+    },
+    "report": {
+      "title": "Treasury report",
+      "item": {
+        "0": "Total Amount of Accumulated Reward (From Station)",
+        "1": "Total Accumualted Inflows",
+        "2": "Total Accumulated Outflows"
+      }
+    }
+  },
+  "daoInformationTable": {
+    "table": {
+      "th1": "Currency Type",
+      "th2": "Total Inflows",
+      "th3": "Total Outflows",
+      "th4": "Total Reward",
+      "th5": "Reward Value",
+      "th6": "Ratio"
+    }
+  },
+  "daoActivityTable": {
+    "table": {
+      "th1": "Date",
+      "th2": "Status",
+      "th3": "Amount",
+      "th4": "From",
+      "th5": "To",
+      "th6": "Type",
+      "th7": "Operating By",
+      "showBtn": "Show More"
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "collection": "Collection",
+  "nft": "NFT",
+  "onSale": "ON SALE",
+  "discoverBtn": "프로젝트 보러가기",
+  "hero": {
+    "nile": {
+      "desc": "NILE의 비전을 담은 삽화를 NFT로 만나보세요."
+    },
+    "lus": {
+      "desc": "영국에서의 추억이 담긴 장소로 연결해 주는 264개의 작품을 만나보세요."
+    },
+    "tangled": {
+      "desc": "Tangled은 유저 모두가 커뮤니티 형성에 직접적으로 기여하고 서로 소통할 수 있는 Web3 라이브 커뮤니티 앱입니다."
+    }
+  },
+  "noTransaction":  "거래 이력이 없습니다",
+  "ranking": {
+    "title": "Ranking",
+    "tabBtn": "Frequent Transactions",
+    "tabBtn2": "Highest last sale",
+    "notice": "일정 기간동안 발생한 Transactions이 많은 순으로 정산",
+    "notice2": "최근 판매가가 가장 비싼 순으로 정산",
+    "unit": "Ranking",
+    "unit2": "NFT",
+    "unit3": "Transactions a"
+  },
+  "detailTop": {
+    "resultMsg": "{{name}}님이\n<0>{{price}}</0>에 낙찰했습니다!",
+    "linkText1": "WEMIX$ 교환하기",
+    "linkText1-1": "WEMIX 교환하기",
+    "linkText2": "NILE 이용가이드 보기",
+    "saleFeatureMessage": "'판매 등록하기' 기능은 추후 지원될 예정입니다.",
+    "offerFeatureMessage": "'제안하기' 기능은 추후 지원될 예정입니다."
+  },
+  "bottom": {
+    "title": "NFT is for Everyone",
+    "notice": "NILE Marketplace에서는 다양한 분야의 NFT를 소개합니다. \n NILE과 함께하고 싶다면 언제든지 문의해 주세요."
+  },
+  "listing": {
+    "title": "Listing",
+    "txt": "위 가격으로 작품 판매 시 아래 수수료를 제외한 금액을 판매 수익으로 얻을 수 있습니다.",
+    "txt2": "판매 등록 시 아래와 같이 가스비가 발생합니다.",
+    "text2-1": "판매 취소 또는 수정시 아래와 같이 가스비가 발생합니다.",
+    "txt3": "나일 플랫폼 수수료 {{rate}} %",
+    "txt4": "제작자 수익분배 {{rate}} %",
+    "txt5": "총 예상 수익",
+    "txt6": "판매 등록 가스비 : 변동",
+    "txt7": "예상 가스비"
+  },
+  "buyMysteryBox": "Mystery Bosx 구매하기",
+  "snkrzInfo": "SNKRZ 상세내용은 11월 17일부터 확인할 수 있습니다.",
+  "creator": "Rokkan Kim(김종혁)",
+  "collectionPage": {
+    "title": "London Underground Station(LUS) 264 Genesis",
+    "desc": "런던의 264개 각 역을 픽셀아트로 표현한 London Underground Station(LUS) 264 Genesis  컬렉션을 NFT로 만나보세요.",
+    "headBtn": "컬렉션 소개 보러가기",
+    "head": {
+      "btn": "컬렉션 소개 상세보기",
+      "btn2": "홀더 혜택 및 시작가 안내",
+      "data": {
+        "1": "총 NFT 수량",
+        "2": "응찰 중",
+        "3": "바닥가",
+        "4": "총 거래액",
+        "5": "응찰 종료"
+      }
+    },
+    "searchPlaceholder": "NFT 이름을 검색해보세요.",
+    "nftName": "NFT 이름",
+    "type": "유형",
+    "transactionAmount": "거래액",
+    "time": "일시",
+    "noSearch": "검색 결과가 없습니다.",
+    "noSearchKeyword": "'{{keyword}}'에 해당하는 검색 결과가 없습니다.",
+    "filter": {
+      "1": "전체",
+      "2": "거래",
+      "3": "판매 등록",
+      "4": "제안",
+      "5": "소유자 이전"
+    },
+    "refund": "환불받기"
+  },
+  "bidResultPage": {
+    "successTitle": "응찰에 성공했습니다",
+    "successDesc": "옥션이 종료되면 알림을 받으실 수 있습니다.",
+    "cancelTitle": "응찰이 취소 되었습니다",
+    "cancelDesc": "취소한 응찰금이 월렛으로 반환되었습니다.",
+    "checkoutCompleteTitle": "NFT 수령이 완료되었습니다",
+    "checkoutCompleteDesc": "NFT는 월렛에서 확인하실 수 있습니다.",
+    "refundTitle": "응찰금 반환 완료!",
+    "refundDesc": "응찰금이 안전하게 반환되었어요.",
+    "purchaseTitle": "NFT 구매 성공!",
+    "purchaseDesc": "NFT구매가 성공적으로 완료되었습니다."
+  },
+  "retractingTooltip": "이전 입찰 내역을 취소할 수 있습니다. \n취소 시 Gas Fee가 발생합니다.",
+  "dontGetOfferTooltip": "판매를 위해 Listing하지 않더라도, 내가 보유한 NFT에 관심이 있는 사용자가 자유롭게 가격을 제안할 수 있습니다. 가격 제안을 받고 싶지 않다면 미판매 상태로 변경해 주세요. 상태 변경 시 Gas Fee를 지불해야 합니다.",
+  "getOfferTooltip": "가격 제안을 받고 싶다면 Open for Offers 상태로 변경해 주세요. 판매를 위해 Listing하지 않더라도, 내가 보유한 NFT에 관심이 있는 사용자가 자유롭게 가격을 제안할 수 있게 됩니다. 상태 변경 시 Gas Fee를 지불해야 합니다.",
+  "listProcess": {
+    "waitingForConfirmation": {
+      "contTitle": "판매",
+      "title": "월렛 확인 중...",
+      "desc": "월렛이 확인되었습니다."
+    },
+    "waitingForListing": {
+      "contTitle": "판매 등록",
+      "title": "NFT 판매 등록 중...",
+      "desc": "Marketplace에 NFT 등록이 요청되었으며,\n거래가 곧 활성화 됩니다."
+    },
+    "successfully": {
+      "contTitle": "판매",
+      "title": "NFT 판매 등록 완료!",
+      "desc": "Marketplace에 NFT 판매 등록이 성공적으로 완료되었습니다."
+    },
+    "resultEdit": {
+      "contTitle": "판매 등록 변경",
+      "title": "NFT 재 판매 등록 완료!",
+      "desc": "NFT가 성공적으로 다시 판매 등록되었습니다."
+    },
+    "resultCancel": {
+      "contTitle": "판매 취소",
+      "title": "NFT 판매 취소 완료!",
+      "desc": "Marketplace에 등록하신 NFT 판매 취소가 성공적으로 완료되었습니다."
+    },
+    "resultChangeNotForSale": {
+      "contTitle": "상태 변경",
+      "title": "상태 변경 완료!",
+      "desc": "NFT '미판매' 상태 변경이 성공적으로 완료되었습니다."
+    },
+    "resultAccept": {
+      "title": "판매가 완료되었습니다!",
+      "desc": "축하합니다. 당신의 NFT가 좋은 가격에 성공적으로 판매되었습니다."
+    },
+    "resultChange": {
+      "title": "상태 변경 완료!",
+      "desc": "NFT '가격 제안 받기' 상태 변경이 성공적으로 완료되었습니다."
+    }
+  },
+  "detailHistory": {
+    "1": "{{1}}에 민팅되었습니다.",
+    "2": "{{1}}가 판매를 시작했습니다.",
+    "3": "{{1}}가 응찰했습니다.",
+    "4": "{{1}}가 {{2}} WEMIX$ 응찰을 취소했습니다.",
+    "5": "{{1}}가 낙찰 받았습니다.",
+    "6": "{{1}}가 {{2}} {{3}}에 구매했습니다.",
+    "7": "{{1}}가 {{2}} {{3}}을 제안했습니다.",
+    "8": "{{1}}가 {{2}} {{3}} 제안을 취소했습니다.",
+    "9": "{{1}}의 {{2}} {{3}} 제안이 만료되었습니다.",
+    "10": "{{1}}가 {{2}} {{3}} 제안에 구매했습니다.",
+    "11": "{{1}}가 판매등록했습니다. (2차 거래 등록을 의미)",
+    "12": "{{1}}에서 {{2}}로 소유자가 이전되었습니다."
+  },
+  "nileBannerTitle": "SON #2 환대 (歡待)"
+}

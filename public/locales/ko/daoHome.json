@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "item": {
+      "0": {
+        "title1": "NILE에서의 첫 번째 DAO,",
+        "title2": "WONDER DAO",
+        "desc": "WONDER DAO는 WEMIX 블록체인 생태계 운영을 위한 40개의 권한 중 하나를 \n위임받는 DAO입니다.",
+        "station1": "Station",
+        "station2": "12,985,234.00 WEMIX",
+        "member1": "모집 인원 현황",
+        "member2": "1,200",
+        "btn1": "보러가기"
+      }
+    }
+  },
+  "check": {
+    "title": "WONDER DAO*에 \n대한 더 많은 정보를 확인해보세요!",
+    "desc": "WONDER DAO에서 당신의 참여를 기다리고 있습니다.",
+    "daoDesc": "*Decentralized Autonomous Organization (탈중앙화된 자율조직)",
+    "subtitle1": "About",
+    "subdesc1": "WONDER* DAO는 WEMIX3.0 메인넷 노드 운영 권한을 가진 40개의 WONDERS 중 하나의 권한을 위임받은 DAO입니다. Node Council Partner로서 WEMIX3.0의 안정된 운영과 혁신에 기여합니다.",
+    "subbtn1": "더 읽어보기",
+    "subtooltip1": "리워드 총량은 모집 목표 금액(15,450,000 WEMIX)을 100% 달성한다고 가정할 때, 해당 재원으로 DAO를 운영하여 창출한 1개월간의 예상 수익입니다. 수익은 멤버에게 직접 배분되지 않고 DAO 운영, DAO Token의 가치 상승을 위해 활용됩니다. ",
+    "subfield1": "예상 리워드",
+    "subtitle2": "DAO Token",
+    "subdesc2": "WONDER DAO의 토큰은 Wonder(WDR)와 g.Wonder (g.WDR) 두 가지로, Wonder를 보유함으로써 DAO에 참여하는 것이 성립됩니다. DAO Token은 Station에서 모집된 총 WEMIX를 기준으로 비례 배분됩니다.",
+    "subfield2": "총 공급량",
+    "subtitle3": "모집기간",
+    "subtitle4": "Wonder 가격",
+    "btn1": "보러가기"
+  },
+  "coreValue": {
+    "title1": "DAO의 핵심 가치",
+    "title2": "블록체인 생태계에서 \n진화를 선도하는 공동체",
+    "subtitle1": "투명한 룰",
+    "subdesc1-1": "투명한 On-chain Governance Program을 통해 DAO를 운영하세요!",
+    "subdesc1-2": "다양한 주제에 대한 토론, 거버넌스 토큰을 사용한 투표, 블록체인에 기록되는 자금의 이동 등 DAO는 투명한 룰에 의해 운영됩니다.",
+    "subtitle2": "협력하는 관계",
+    "subdesc2-1": "시공간을 뛰어넘는 콜라보레이션으로 그동안 없었던 결과를 만들어보세요!",
+    "subdesc2-2": "다양한 관심을 가진 재능있는 인재들이 시간과 공간을 뛰어넘어 블록체인상에서 협업을 이뤄냅니다.",
+    "subtitle3": "지속가능한 성장",
+    "subdesc3-1": "DAO의 성과를 통해 지속적인 성장을 이뤄가세요!",
+    "subdesc3-2": "DAO의 성과는 투명하게 관리되어 DAO의 성장을 이뤄내고, 재투자를 통한 선순환 구조를 만듭니다."
+  },
+  "neith": {
+    "title": "Neith Protocol이란?",
+    "desc": "Neith Protocol의 7가지 요소를 통해 커뮤니티 구성원들은 제한 없이 다양한 방식으로 함께 일할 수 있습니다. 혁신적이고 창의적인 아이디어에 생명을 불어넣어 보세요.",
+    "btn1": "Neith Protocol Guide 더 읽어보기",
+    "item": {
+      "0": {
+        "title": "Station",
+        "desc": "DAO의 목적을 달성하기 위해 멤버를 모집하고, DAO Token을 최초로 배분하는 곳입니다."
+      },
+      "1": {
+        "title": "Trust",
+        "desc": "DAO의 이름과 권한을 위임받아 오프체인에서 계약의 주체가 되는 곳입니다. 사업을 수행하고 관리합니다."
+      },
+      "2": {
+        "title": "Treasury",
+        "desc": "DAO의 자금이 모이고 보관되는 커뮤니티 금고입니다."
+      },
+      "3": {
+        "title": "Staking Pool",
+        "desc": "DAO Token 스테이킹을 통해 Governance Token을 획득함으로써 Governance 참여를 가능하게 하는 곳입니다."
+      },
+      "4": {
+        "title": "Furnace",
+        "desc": "매입한 DAO Token의 일부를 소각(Burn)하여, DAO Token의 가치를 높이는 곳입니다."
+      },
+      "5": {
+        "title": "Governance",
+        "desc": "보유한 Governance Token을 활용하여 DAO 운영에 관한 안건을 올리고 투표를 통해 의사결정 할 수 있는 곳입니다."
+      },
+      "6": {
+        "title": "Creator",
+        "desc": "Creator는 DAO의 성장을 위한 IP와 핵심사업을 제공합니다. NFT 사업의 경우 수익에 대한 Creator share를 배분받을 수 있습니다."
+      }
+    }
+  },
+  "type": {
+    "title1": "어떤 분야에 관심 있으신가요?",
+    "title2": "다양한 DAO 유형을 NILE에서 만나볼 수 있어요!",
+    "desc1": "DAO는 여러가지 목적으로 개설될 수 있습니다.",
+    "desc2": "다양한 가치의 DAO 유형을 둘러보세요."
+  },
+  "join": {
+    "title": "이런 DAO가 개설되었으면 좋겠어요!",
+    "desc": "개설을 원하는 DAO가 있다면 요청해주세요.",
+    "btn1": "개설 요청하기"
+  },
+  "DaoRequestModal": {
+    "title": "개설 요청하기",
+    "desc": "희망하는 DAO가 있다면 알려주세요.",
+    "form": {
+      "daoCategory": {
+        "label": "DAO 유형",
+        "placeholder": "희망하는 DAO 유형을 선택해주세요.",
+        "errorMessage": "DAO 유형을 선택해주세요."
+      },
+      "introduction": {
+        "label": "상세 요청 사항 (선택항목)",
+        "placeholder": "개설에 대한 상세한 요청사항이 있을 경우, 여기에 적어주세요. \n(DAO 유형에서 기타를 선택하셨을 경우, 상세 요청 사항을 필수로 적어주세요.)"
+      },
+      "email": {
+        "label": "이메일",
+        "placeholder": "이메일 주소를 적어주세요."
+      }
+    },
+    "btnText": "보내기"
+  }
+}

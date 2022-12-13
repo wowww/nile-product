@@ -1,0 +1,443 @@
+{
+  "home": {
+    "snkrz": {
+      "banner": {
+        "desc": "Run with my NFT in the metaverse. \nSNKRZ is a blockchain-based social activity reward platform. Wear SNKRZ unique to you and receive rewards whenever you walk or run."
+      }
+    },
+    "nft": {
+      "button": "Go to Project",
+      "item": {
+        "0": {
+          "desc": "London Underground Station 264 Genesis (LUS264) is a collection of NFTs created with intricate pixels. The English auction goes live with different starting prices according to the number of passengers at the station. People NFT will be airdropped to the LUS264 holders.",
+          "text1": "Total Transaction Amount",
+          "text2": "Total Transactions",
+          "text3": "Floor Price"
+        },
+        "1": {
+          "desc": "Web3 live community app based on video chats. \n The Tangled Timepieces are NFT for the Tangled community, with access permitted only for the extraordinary. Grab the chance to be a Luxury Holder before anyone else and try your luck at combining to get a higher grade.",
+          "text1": "TIPO Market Cap",
+          "text2": "TIPO Price",
+          "text3": "App Downloads"
+        },
+        "2": {
+          "desc": "Sights of NILE is a project where illustrations inspired by Story3.0 are created as NFT. Discover more about the perspectives of experts and Creators from  NILE and Web3. Make a bid in the English auction now.",
+          "text1": "Total Transaction Amount",
+          "text2": "Total Transactions",
+          "text3": "Floor Price"
+        },
+        "3": {
+          "desc": "SNKRZ is a Move-to-Earn platform where you can exercise and get rewards.\n Generate profits while walking and running with motivators to burn many calories with information from GPS to acceleration sensors. Achieve your goals with SNKRZ and enjoy running even more.",
+          "text1": "Total Transaction Amount",
+          "text2": "Total Transactions",
+          "text3": "Floor Price",
+          "text4": "App Downloads",
+          "unfoldingSoon": "Details about SNKRZ will be available from November 17th."
+        }
+      },
+      "text": "Stay tuned for the next project that will change your Life."
+    },
+    "apply": {
+      "desc": "We welcome project enquiries to change Life with NILE."
+    }
+  },
+  "lus": {
+    "main": {
+      "title": "LONDON\nUNDERGROUND\nSTATION 264 GENESIS"
+    },
+    "btn": "Preview NFTs",
+    "btn1": "NFT Holder Benefits and Auction Guide",
+    "overview": {
+      "desc": "London Underground Station(LUS) 264 Genesis is a pixel art project that shows the symbolic history of the London subway.",
+      "text1": "Widely known as the London Tube, the London Underground is a means of transportation for many Londoners and tourists, a tunnel that connects to nostalgic memories.",
+      "text2": "LUS 264 showcases stations of various sizes with different heights and widths in a square of 320px, which started from the King’s Cross station in 2013 to Paddington station in 2017. As Zeeha and Locho’s genesis NFTs, 2,112 Generation NFTs are reconstructed into eight themes.",
+      "text3": "The English auction for LUS 264 will go live with different starting prices according to the number of passengers at the station. People NFT will be airdropped to the LUS 264 holders."
+    },
+    "generation": {
+      "label": "Upcoming",
+      "title": "LUS Generation",
+      "desc": "LUS Generation collection is extended NFTs of LUS Genesis, redesigned with eight distinctive themes; nighttime, raining, snowing, and more.",
+      "subTitle": "LUS264 Genesis Benefit {{num}}",
+      "subDesc": "LUS 264 Genesis holders can earn an additional 1% reward of the transaction when each Generation NFT is sold.",
+      "desc2": "* This rate of certain portion will be notified."
+    },
+    "people": {
+      "label": "Upcoming",
+      "title": "People of LUS",
+      "desc": "People of LUS is a collection of 9,999 locals who live in the pixel metaverse. Experience the one and only universe of pixel People NFTs.",
+      "subTitle": "LUS264 Genesis Benefit {{num}}",
+      "subDesc": "People NFT (PFP) will be airdropped for free to LUS264 Genesis holders.",
+      "notice": "*PFPs will be given away randomly."
+    },
+    "auctionGuide": {
+      "title": "Auction Guide",
+      "item": {
+        "0": {
+          "title": "Check Point 01",
+          "desc": "264 NFTs of LUS264 Genesis will be sold through an English auction.",
+          "button": "Read more about English Auction"
+        },
+        "1": {
+          "title": "Check Point 02",
+          "desc": "A three-hour countdown begins when the first bidder makes an offer, and the highest bidder wins the auction.",
+          "caption": "* NFTs without any price offers can be bidded anytime. "
+        },
+        "2": {
+          "title": "Check Point 03",
+          "desc": "The starting price of the auction is divided into 5 parts, according to the number of annual passengers* at each station.",
+          "list": {
+            "0": {
+              "name": "Blue",
+              "value": "(186 Stations)",
+              "sub": {
+                "desc1": "<0>{{strong1}}</0> less than 10 million people",
+                "desc2": "<0>{{strong2}}</0> 750 WEMIX$",
+                "strong1": "Number of\nannual passengers",
+                "strong2": "Starting from"
+              }
+            },
+            "1": {
+              "name": "Green",
+              "value": "(44 Stations)",
+              "sub": {
+                "desc1": "<0>{{strong1}}</0> 10M ~ 20M",
+                "desc2": "<0>{{strong2}}</0> 1,100 WEMIX$",
+                "strong1": "Number of\nannual passengers",
+                "strong2": "Starting from"
+              }
+            },
+            "2": {
+              "name": "Yellow",
+              "value": "(21 Stations)",
+              "sub": {
+                "desc1": "<0>{{strong1}}</0> 20M ~ 40M",
+                "desc2": "<0>{{strong2}}</0> 1,400 WEMIX$",
+                "strong1": "Number of\nannual passengers",
+                "strong2": "Starting from"
+              }
+            },
+            "3": {
+              "name": "Orange",
+              "value": "(9 Stations)",
+              "sub": {
+                "desc1": "<0>{{strong1}}</0> 40M ~ 70M",
+                "desc2": "<0>{{strong2}}</0> 1,800 WEMIX$",
+                "strong1": "Number of\nannual passengers",
+                "strong2": "Starting from"
+              }
+            },
+            "4": {
+              "name": "Red",
+              "value": "(4 Stations)",
+              "sub": {
+                "desc1": "<0>{{strong1}}</0> 70M ~ 90M",
+                "desc2": "<0>{{strong2}}</0> 2,200 WEMIX$",
+                "strong1": "Number of\nannual passengers",
+                "strong2": "Starting from"
+              }
+            }
+          },
+          "caption": "*According to the number of total passengers in 2019",
+          "comment": "*According to the number of total passengers in 2019"
+        }
+      }
+    },
+    "artist": {
+      "desc1": "Zeeha is an illustrator, and Locho is a typographer who also creates pixel artwork. The artist duo started the design team called PICDOT, which began in London in 2009.",
+      "desc2": "Based in London and Seoul, the two creators have made various pixel artworks such as \"Pixel World 2009,\" \"Pixel World 2019,\" \"LUS 264,\" \"PEOPLE,\" \"VIKLS,\" and \" Ash19HX.\" They are currently working on creating a pixel metaverse that connects all of their projects."
+    },
+    "detail": {
+      "desc": "Check out the collection of London Underground Stations(LUS) 264 Genesis that describes 264 London stations in Pixel art."
+    }
+  },
+  "tangled": {
+    "main": {
+      "text": "Tangled"
+    },
+    "nft": {
+      "desc": "The Tangled Timepieces are NFT for the Tangled community, with access permitted only for the extraordinary. Grab the chance to be a Luxury Holder before anyone else and try your luck at combining to get a higher grade. Only the chosen 1% will succeed in combining and having a limited-edition, a top tier NFT.",
+      "luxury": {
+        "title": "Luxury",
+        "text1": "Consisting 74% of all NFTs.",
+        "text2": "Be a Tangled Timepieces Holder right now."
+      },
+      "highEnd": {
+        "title": "High-end",
+        "text1": "A higher grade that can only be combined, \nthis grade is limited to 25% of all NFTs.",
+        "text2": "A successful combine of 2 Luxury Timepieces is necessary to obtain this."
+      },
+      "zenith": {
+        "title": "Zenith",
+        "text1": "A top tier NFT,\nonly permitted for the 1%.",
+        "text2": "Only the best of the best who have succeeded in combining a high-end timepiece can be Holders."
+      }
+    },
+    "overview": {
+      "title": "Tangled is a web3 live community app where users can directly form new communities and communicate with one another.",
+      "community": {
+        "title": "WEB3 Live Chat",
+        "desc": "Users can discover and chat with new users through random live chat, and earn Time points as rewards for conversation."
+      },
+      "community2": {
+        "title": "NFT",
+        "desc": "This NFT Watch takes the Time you get from the Tangled app. It’s very important to maintain. You can also get a high-grade watch by mating."
+      },
+      "community3": {
+        "title": "TIPO",
+        "desc": "Time points stored on the watch can be converted into TIPO, a crypto token, and can be used by various consumers in the app."
+      },
+      "theTeam": {
+        "title": "The Team",
+        "1": {
+          "name": "Jin Park",
+          "rank": "CEO & Co-Founder",
+          "desc": "Developer, entrepreneur and investor. Over 25 years of experience in the internet and gaming industry. Co-Founded an internet service company that successfully IPO-ed in the 00s, later in his career he also Co-Founded another gaming company in South Korea."
+        },
+        "2": {
+          "name": "JS Shin",
+          "rank": "EVP & Co-Founder",
+          "desc": "Entrepreneur and investor. More than 15 years of experience in the internet and gaming industry. Experience in various game publishing projects in major gaming companies. Co-Founded a gaming company in the past."
+        },
+        "3": {
+          "name": "Hyo Park",
+          "rank": "COO & Co-Founder",
+          "desc": "Business opportunity explorer. Professional in international business development. Especially dedicated to the global game business. Experience in leading significant success of viral content business in LATAM."
+        },
+        "4": {
+          "name": "Edward Lee",
+          "rank": "CTO",
+          "desc": "Developer and entrepreneur. Experience in development as a professional server programmer at a global mobile media & entertainment company. Decades in software engineering with expertise in handling massive server traffic."
+        },
+        "5": {
+          "name": "Moo Min",
+          "rank": "CDO & Co-Founder",
+          "desc": "Skillful designer in UX and UI. Has an overwhelming portfolio of character artworks. Has been a founding member of one of the biggest content platforms globally."
+        },
+        "6": {
+          "name": "Paul Cho",
+          "rank": "Business Strategy Director",
+          "desc": "Strategy specialist. Educated in Liberal Arts, Political Science and Law. Experience in Public Policy at the National Assembly of the Republic of Korea."
+        }
+      }
+    }
+  },
+  "nile": {
+    "nft": {
+      "button": "Related articles",
+      "alarm": "Your notification request has been registered.",
+      "piece": {
+        "title": "SON #1 New World",
+        "info": "2160x2704 MP4 with sound (00:58)",
+        "desc": "Like how the Nile river floodings flourished the Egyptian civilization, NILE will be the origin of the evolution of life in the third-generation internet. Inspired by the values of NILE, New World visualizes the new civilization of Web3. The artwork embraces the joy, birth of unique culture, and emotions that would greet the new era."
+      },
+      "creator": {
+        "name": "Rokkan Kim",
+        "desc": "Rokkan Kim (Jong Hyuk Kim) is a media artist who has been creating artworks that reinterpret the social scenes that we live in and American culture from the 1960s to the 70s.\nKim came across New Hollywood films when he was young and started to explore social phenomena like politics, ideology, design, fashion, and architecture from the movies. This marks the creation of the world of JFK-JHK—the initials of John F. Kennedy and Kim. Kim’s work covers numerous topics and industries that have inspired him since childhood. The “Space Oddity” series present spatial experience and ambivalent lives of astronauts, who were Kim’s childhood idols. The “Sea the Wall” collection alarms viewers about the earth’s climate change caused by environmental destruction. “May Be In My Past Life” looks into the supposed perspective of John F. Kennedy on the present, society, and politics. “The Occurrence of Thought” is the collection inspired by the design philosophy and architecture from the 1960s to now, with the stories from Kim’s grandfather, a veteran of the Korean War. “Fashion Component” is a graphic work that reassembles magazines and photos that inspired Kim when he studied fashion design at school."
+      },
+      "career": {
+        "title": "Works",
+        "list": {
+          "0": "THEMUT - Creative Director",
+          "1": "MSUC -  Producer",
+          "2": "Documentary film “They Kill My Mother”– Producer, Art Director, Actor",
+          "3": "Glitchers – Creative Director, Artist"
+        }
+      },
+      "exhibition": {
+        "title": "Exhibitions",
+        "item": {
+          "0": {
+            "title": "Private Exhibitions",
+            "list": {
+              "0": { "year": "2022", "text": "Banpo Art Academy (Scheduled) - Seoul, Korea" },
+              "1": { "year": "2022", "text": "“Space Oddity” at KwanHoon Gallery - Seoul, Korea" },
+              "2": { "year": "2022", "text": "“Space Oddity” at Seoul Gallery of Seoul Shinmun - Seoul, Korea" }
+            }
+          },
+          "1": {
+            "title": "Group Exhibitions",
+            "list": {
+              "0": { "year": "2022", "text": "“BWB 2022” at BEXCO - Busan, Korea" },
+              "1": { "year": "2022", "text": "“Earth Mood” at Gallery Earth - Seoul, Korea" },
+              "2": { "year": "2022", "text": "“GLITCHERS ART INVASION VOL.1” at Art Space Blue Screen - Seoul, Korea" },
+              "3": {
+                "year": "2020",
+                "text1": "“ERROR : 404 NOT FOUND” at Art Space Blue Screen - Seoul, Korea",
+                "text2": "“They Kill My Mother” at Leesoo Gallery - Seoul, Korea"
+              },
+              "4": { "year": "2018", "text": "“Hello New York” at Able Fine Art NY Gallery - New York, USA" },
+              "5": { "year": "2017", "text": "ASYAAF (Asian Students and Young Artists Art Festival) at Dongdaemun Design Plaza - Seoul, Korea" }
+            }
+          }
+        }
+      },
+      "whoNext": "Stay tuned for the next NFTs on \n Sights of NILE.",
+      "2": {
+        "piece": {
+          "title": "SON #2 Invitation",
+          "info": "3753x2676 Image",
+          "desc": "Only rampant speculation surrounds how Web3, the buzzword media has become infatuated with, will shape our lives. But times have changed endlessly and we are only in the process of that change. The essence of everything is eternal, so let’s put our fears aside and welcome Web3 with open arms.",
+          "desc2": "Docent : \n Web3 is a new environment that triggers the imagination of creators. The creator herself is looking forward to the era of Web3 and hopes to create a world in which everything is possible, but she is also afraid to fully embrace the dynamics of the new change.",
+          "desc3": "Through NILE, the creator aims to portray the experience of a new world on Web3 that goes beyond her limitations. \"Invitation\" is based on surrealistic ideas and is also a self-portrait that faces and transcends the essence."
+        },
+        "creator": {
+          "name": "Young (Seo So-young)",
+          "desc": "Young (Seo So-young) is a graphic artist specializing in graphic-based artwork, painting, and branding who will present her first NFT art on NILE.\nIn pursuit of a unique atmosphere created by the fusion of spaces and elements that differ from each other, So-young is currently working on a series of Caterpillar paintings inspired by the confusing and abstract expression of the conceptual elements in the Paprika anime.\nThe creator transcends the limits of the realm through collaborations with the identity and symbolism of artists/brands and various digital artworks."
+        },
+        "career": {
+          "title": "작가 이력",
+          "list": {
+            "0": "Atispaus – Graphics Creator",
+            "1": "Studio 326Art – Creative Director, Artist"
+          }
+        },
+        "exhibition": {
+          "title": "전시 주요 이력",
+          "item": {
+            "list": {
+              "0": { "year": "2022", "text": "“Year of the Tiger” IFLAND Metaverse, Korea" },
+              "1": { "year": "2020", "text": "“Youth Page” Seoul Arts Center, Seoul, Korea" },
+              "2": { "year": "2017", "text": "“Seoul Illustration Fair” Coex, Seoul, Korea" }
+            }
+          }
+        }
+      }
+    },
+    "overview": {
+      "key": {
+        "title": "Web3 Themed NFT Arts : \n Sights of NILE",
+        "subtitle": "'Sights of NILE' is a collection of NILE's view of Web3, and your views of NILE.",
+        "desc": "'Sights of NILE' is a project where the columns published by NILE, and the illustrations in 'Story3.0' articles are turned into NFT form, and NILE aims to touch on various trends and opinions on blockchain through the 'Story3.0' column. The diverse opinions of experts from various fields such as the arts, economics and blockchain will be condensed into inspired illustrations from Creators. NILE proposes to talk about the Web3 ecosystem that WEMIX dreams of in an original way - with the 'Sights of NILE'."
+      },
+      "cont1": {
+        "title": "The Creator's view, showcased in whole.",
+        "subtitle": "Gate to Web3 : Sights of Creators",
+        "desc": "The 'Sights of NILE' pieces are creations of the columnist's view realized in each 'Story3.0' article, reinterpreted in the illustrator(NFT Creator)'s view. The columnist and illustrator of each article is connected as one through NILE, showcasing the Creators' view in whole. Check out the illustrations born of Creators' inspirations through NILE auctions."
+      },
+      "cont2": {
+        "title": "Share your view with NILE.",
+        "subtitle": "View along with NILE : Sights of Community",
+        "desc": "Access the views of various experts with 'Story3.0' articles, and the views of curious Creators with the 'Sights of NILE'. And share your views of them with NILE. Your views will also change NILE's views in the 'Sights of NILE'."
+      },
+      "space": {
+        "desc": "If you want to know more about the more professional and fresh standpoints in Web3 and blockchain, where evolution takes place every day, meet eye to eye with NILE through the 'Sights of NILE' now.",
+        "btn": "View Story3.0"
+      },
+      "FAQ": {
+        "title": "FAQ",
+        "q1": {
+          "title": "What is the NFT issuing cycle like?",
+          "desc": "The NFT issuing cycle of the 'Sights of NILE' is the same as the publishing cycle of 'Story3.0' articles. Currently 'Story3.0' articles are planned to be published twice every month, and a new illustration NFT will be made public and auction proceedings will take place every time a new article is published."
+        },
+        "q2": {
+          "title": "How can I participate in auctions?",
+          "desc": "You can find information about pieces in ongoing auctions in the 'NFT' tab in the top half of the webpage. Or, you could also participate in ongoing auctions in the 'NILE Marketplace' directly."
+        },
+        "q3": {
+          "title": "How are auctions advanced?",
+          "desc": "The English auction is used (the highest bidder is successful). Each subsequent bid is required to be higher than the previous bid, and the bidding is only available in $. The highest bid is kept for 3 hours after the bid is made, and the bid is confirmed as successful once there are no additional bids made in those 3 hours."
+        },
+        "q4": {
+          "title": "How can I withdraw my intention to buy after my bid is successful?",
+          "desc": "It is impossible to withdraw your intention to buy after your bid is successful. Please be careful and take caution when making your decision. By default, bids also cannot be withdrawn. Only in cases when there are higher bids can bids exceptionally be withdrawn. (However, Gas Fees must be paid)"
+        }
+      }
+    }
+  },
+  "snkrz": {
+    "main": {
+      "title": "Run with your NFTs in the metaverse.\nGet rewards now with your SNKRZ every time you walk or run."
+    },
+    "mystery": {
+      "sale": {
+        "title": "Mystery Box Sale",
+        "amount": "Remaining Amount : 500/500",
+        "desc": "A total of 500 Mystery Boxes will be sold for a fixed price of 30 WEMIX$, with a maximum of 3 purchases per person.\nYou will not be able to buy more when it is sold out, so don't miss your chance!",
+        "desc2": "Stay tuned!",
+        "unit": "WEMIX$"
+      },
+      "contents": {
+        "title": "Mystery Box Contents",
+        "desc": "The purchased Mystery Box and random components can be opened in the Inventory of the SNKRZ app.",
+        "item": {
+          "0": {
+            "title": "NFT Shoes",
+            "probability": "Probability of Winning: 20%\n(100 Boxes/500 Boxes)",
+            "desc": "The optimal speed of NFT shoes varies with each mode and the user's exercise type; the more the number of shoes, the more stamina a user can exercise. The levels of NFT shoes determine the number of rewards the user can receive daily."
+          },
+          "1": {
+            "title": "Shoe Skin NFT",
+            "probability": "Probability of Winning: 20%\n(100 Boxes/500 Boxes)",
+            "desc": "Shoe skin NFTs are vouchers for shoes that can be used in the SNKRZ app. Each skin has its unique properties."
+          },
+          "2": {
+            "title": "$FIT",
+            "probability": "Probability of Winning: 20%\n(100 Boxes/500 Boxes)",
+            "desc": "This governance token allows users to participate in essential decision-making on SNKRZ. Open the Mystery Box and get $FIT tokens!"
+          },
+          "3": {
+            "title": "$SKZ",
+            "probability": "Probability of Winning: 40%\n(200 Boxes/500 Boxes)",
+            "desc": "This utility token can be spent throughout the SNKRZ dApp from leveling up, breeding, repairing, participating in lucky draws, and more. Open the Mystery Box and get $SKZ tokens!"
+          }
+        }
+      },
+      "usage": {
+        "title": "How do I open the Mystery Box?",
+        "1": {
+          "img": "/images/img_snkrz_step_1_en.png",
+          "step": "STEP 01",
+          "desc": "From the Inventory section on the SNKRZ app, click Import to select WEMIX Wallet."
+        },
+        "2": {
+          "img": "/images/img_snkrz_step_2_en.png",
+          "step": "STEP 02",
+          "desc": "After selecting the wallet, press Export to Inventory, then Mystery Box in the Select Collection. ",
+          "notice": "*For Export to Inventory, a gas fee may be charged to you. "
+        },
+        "3": {
+          "img": "/images/img_snkrz_step_3_en.png",
+          "step": "STEP 03",
+          "desc": "When the inventory export is complete, the Mystery Box gets added to your Inventory from the Collection page. "
+        },
+        "4": {
+          "img": "/images/img_snkrz_step_4_en.png",
+          "step": "STEP 04",
+          "desc": "Open the Mystery Box following the pop-up. "
+        }
+      }
+    },
+    "overview": {
+      "list": {
+        "1": {
+          "title": "SNKRZ NFT",
+          "text": "SNKRZ is a collection of metaverse shoes, and each pair has unique designs and different levels of Performance, Luck, Durability, Quality, and Fever.\nFor SNKRZ with higher rarity or limited editions, an additional ability called Boost will be given.\nGrab your one-of-a-kind NFT shoes on NILE Marketplace and earn rewards by working out!",
+          "desc": "* SNKRZ NFTs can also be purchased from the Mystery Box NFTs thereafter."
+        },
+        "2": {
+          "title": "SNKRZ App",
+          "text": "SNKRZ is the Move-to-Earn (M2E) platform where you can exercise and get rewards. Generate profits while walking and running with motivators to burn many calories with information from GPS to acceleration sensors. Achieve your goals with SNKRZ by connecting to your WEMIX WALLET and enjoy running even more."
+        },
+        "3": {
+          "title": "SNKRZ Tokenomics",
+          "text": "SNKRZ NFTs will generate rewards of $SKZ, the in-game token, whenever you walk with the app. The rewards will be given based on the stats of your SNKRZ. The rewards can be exchanged as WEMIX$ through WEMIX.FI and used throughout the platform, such as shoe breeding, durability increase, and lucky draw.",
+          "list": {
+            "1": {
+              "title": "$SKZ : ",
+              "text": "Earn $SKZ every time you wear your NFT shoes and walk with the SNKRZ app. Your SNKRZ stats determines the rewards you receive, and it is used throughout the app for breeding, durability recovery, and lucky draw.",
+              "desc": {
+                "1": "* It will be available for purchase on NILE Launchpad soon.",
+                "2": "* The rewards can be exchanged as WEMIX$ through WEMIX.FI."
+              }
+            },
+            "2": {
+              "title": "$FIT ",
+              "text": "is the governance token that allows participation in major decision-making for SNKRZ and provides access for users to enjoy more content within Dapp.",
+              "desc": "* It will be available for purchase on NILE Launchpad soon."
+            }
+          }
+        }
+      }
+    }
+  }
+}

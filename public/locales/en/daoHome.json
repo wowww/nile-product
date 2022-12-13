@@ -1,0 +1,111 @@
+{
+  "hero": {
+    "item": {
+      "0": {
+        "title1": "The First DAO of NILE,",
+        "title2": "WONDER DAO",
+        "desc": "Wonder DAO is a DAO that is delegated one of the 40 authorities \nfor the operation of the WEMIX blockchain ecosystem.",
+        "station1": "Station",
+        "station2": "12,985,234.00 WEMIX",
+        "member1": "Recruit Status",
+        "member2": "1,200",
+        "btn1": "Go to Link"
+      }
+    }
+  },
+  "check": {
+    "title": "Find out more about \nWonder DAO*!",
+    "desc": "Wonder DAO is waiting for you to participate!",
+    "subtitle1": "About",
+    "daoDesc": "*Decentralized Autonomous Organization (탈중앙화된 자율조직)",
+    "subdesc1": "WONDER* DAO is a delegated DAO from 40 WONDERS with WEMIX3.0 mainnet node operation authority. As a Node Council Partner, it contributes to the secure operation and innovation of WEMIX3.0.",
+    "subbtn1": "Read more",
+    "subtooltip1": "Total rewards are the estimated generated profits of DAO operations for 1 month, assuming that the operating funds, the Recruiting Funding Goal (15,450,000 WEMIX), is 100% reached. The profits are not directly distributed to members, but utilized for DAO operations and for the increase of DAO Token value.",
+    "subfield1": "Estimated Rewards",
+    "subtitle2": "DAO Token",
+    "subdesc2": "Wonder DAO has two tokens: Wonder(WDR) and g.Wonder (g.WDR). Ownership of Wonder establishes participation in the DAO. DAO Tokens are distributed in proportion to the total WEMIX collected in the Station.",
+    "subfield2": "Total Supply",
+    "subtitle3": "Remaining Period",
+    "subtitle4": "Wonder Price",
+    "btn1": "Go to Link"
+  },
+  "coreValue": {
+    "title1": "Core Values of DAO",
+    "title2": "A Community Pioneering the Evolution \nof the Blockchain Ecosystem",
+    "subtitle1": "Transparent rules",
+    "subdesc1-1": "Manage DAOs with a \ntransparent on-chain governance program!",
+    "subdesc1-2": "DAO is operated with transparent rules:\nactivities like discussions on various topics, voting using Governance Tokens, moving funds that are recorded on the blockchain, etc.",
+    "subtitle2": "Cooperation and collaboration",
+    "subdesc2-1": "Create results like never before \n with collaboration that goes beyond time!",
+    "subdesc2-2": "Engage with people with various interests beyond space and time.",
+    "subtitle3": "Sustainable growth",
+    "subdesc3-1": "Grow together with DAOs you create!",
+    "subdesc3-2": "The performance of DAOs is transparently managed to achieve the growth of DAOs and create a virtuous cycle through reinvestment."
+  },
+  "neith": {
+    "title": "What is the Neith Protocol?",
+    "desc": "The seven elements of the Neith Protocol allow community members to work together in various ways, unlimited. Join us to bring innovation and creative ideas to life.",
+    "btn1": "Read more about the Neith Protocol",
+    "item": {
+      "0": {
+        "title": "Station",
+        "desc": "Members are recruited, and DAO Tokens get  distributed to achieve the collective goal of a DAO."
+      },
+      "1": {
+        "title": "Trust",
+        "desc": "DAO's name and authority are delegated to become the subject of the contract off-chain with the execution and management of the business."
+      },
+      "2": {
+        "title": "Treasury",
+        "desc": "This is the community vault where DAO funds are collected and stored."
+      },
+      "3": {
+        "title": "Staking Pool",
+        "desc": "NILERS can receive Governance Tokens by staking DAO Tokens to participate in Governance."
+      },
+      "4": {
+        "title": "Furnace",
+        "desc": "The value of DAO Token increases by burning a part of DAO Tokens."
+      },
+      "5": {
+        "title": "Governance",
+        "desc": "By using Governance Tokens, agendas can be created to operate DAO while making decisions through voting."
+      },
+      "6": {
+        "title": "Creator",
+        "desc": "Creator provides IP and core business for the growth of DAO. For NFT business, NILERS can receive the Creator share of profits."
+      }
+    }
+  },
+  "type": {
+    "title1": "What is your area of interest?",
+    "title2": "Discover your next DAO!",
+    "desc1": "DAOs can have countless purposes.",
+    "desc2": "Explore various types of DAOs with unique values!"
+  },
+  "join": {
+    "title": "I want to create a DAO!",
+    "desc": "Request to create a DAO of your own.",
+    "btn1": "Request to Create"
+  },
+  "DaoRequestModal": {
+    "title": "Request to Create",
+    "desc": "Enter the details of the DAO you want to create.",
+    "form": {
+      "daoCategory": {
+        "label": "DAO Type",
+        "placeholder": "Select the type of DAO you are looking for.",
+        "errorMessage": "Select the type of DAO."
+      },
+      "introduction": {
+        "label": "Detailed Requests (Optional)",
+        "placeholder": "If you have detailed requests about the DAO you want to see created, please write them in here. (This part is mandatory if you have selected Misc. for the type of DAO.)"
+      },
+      "email": {
+        "label": "Email",
+        "placeholder": "Please type your email address here."
+      }
+    },
+    "btnText": "Send"
+  }
+}

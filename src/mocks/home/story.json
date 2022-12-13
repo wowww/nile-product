@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "image": "/images/img_sights_of_nile_son2.png",
+    "tags": [
+      "Web3", "Blockchain", "Creator", "Artist"
+    ],
+    "title": "home.story.item.3.title",
+    "content": "home.story.item.3.desc",
+    "link": "/nile/storydetail2",
+    "date": "2022-12-12",
+    "columnist": "home.story.item.3.columnist.name",
+    "creator": "home.story.item.3.creator"
+  },
+  {
+    "id": 1,
+    "videoUrl": "https://nile.blob.core.windows.net/media/SON/1.mp4",
+    "tags": [
+      "home.story.item.2.tag.0",
+      "home.story.item.2.tag.1",
+      "home.story.item.2.tag.2",
+      "home.story.item.2.tag.3"
+    ],
+    "title": "home.story.item.2.title",
+    "content": "home.story.item.2.desc",
+    "link": "/nile/storydetail",
+    "date": "2022-11-11",
+    "work": "home.story.item.2.work",
+    "info": "home.story.item.2.info",
+    "creator": "Rokkan Kim"
+  }
+]

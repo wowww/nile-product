@@ -1,0 +1,84 @@
+.nile-visual {
+  .video-wrap {
+    overflow: hidden;
+    height: 560px;
+
+    @include md {
+      height: auto;
+
+      // TODO : 11/11 오픈 대비 코드
+      // padding: 92px 0 143px;
+      padding: 92px 0 0;
+    }
+
+    backface-visibility: hidden;
+
+    @include sm {
+      height: auto;
+
+      // TODO : 11/11 오픈 대비 코드
+      // padding: 50px 0 70px;
+      padding: 50px 0 30px;
+    }
+
+    video {
+      position: relative;
+      z-index: 1;
+
+      // top: -9px;
+      width: auto;
+      height: 560px;
+      margin: 0 auto;
+      object-fit: cover;
+
+      @include md {
+        top: 0;
+        width: auto;
+        height: 640px; // 700px;
+      }
+
+      @include sm {
+        top: 0;
+        width: auto;
+        height: 280px; // 312px
+      }
+    }
+  }
+}
+
+.nile-content-wrap {
+  @include maxWidthLg;
+
+  padding: 60px 0 70px;
+
+  // TODO : 11/11 오픈 대비 코드
+  @include sm {
+    padding-top: 30px;
+  }
+
+  .nile-content {
+    .content-title {
+      margin-bottom: 24px;
+
+      @include md {
+        margin-bottom: 20px;
+      }
+
+      @include sm {
+        margin-bottom: 20px;
+      }
+    }
+
+    & + .nile-content {
+      margin-top: 80px;
+
+      @include md {
+        margin-top: 60px;
+      }
+
+      @include sm {
+        margin-top: 60px;
+      }
+    }
+  }
+}

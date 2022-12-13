@@ -1,0 +1,46 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[scss]": {
+    "editor.defaultFormatter": "stylelint.vscode-stylelint"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "stylelint.validate": ["css", "scss", ".module.scss"],
+  "cSpell.words": [
+    "antd",
+    "daos",
+    "daostation",
+    "daotokens",
+    "daotype",
+    "ethersproject",
+    "familysite",
+    "fontsize",
+    "Fullpage",
+    "googleapis",
+    "gsap",
+    "gwonder",
+    "kiaf",
+    "localforage",
+    "LOCALSTORAGE",
+    "milli",
+    "mypage",
+    "Neith",
+    "plusplus",
+    "Snkrz",
+    "stylelint",
+    "subdesc",
+    "svgr",
+    "swiper",
+    "tailwindcss",
+    "textsize",
+    "tokenusage",
+    "Unstake",
+    "Unstaking",
+    "WEMIX",
+    "wemixfi"
+  ]
+}

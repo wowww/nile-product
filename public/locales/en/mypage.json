@@ -1,0 +1,121 @@
+{
+  "a11y": {
+    "settingProfile": "Settings Profile",
+    "gotoSetting": "Go to Settings",
+    "copyWallerAdd": "Copy Wallet Address"
+  },
+  "tooltip": {
+    "totalAsset": "This is the sum of the total balance of DAO and my NFT price.",
+    "includedDAO": "This is the sum of DAO Token and Governance Token converted to WEMIX$ from all participating DAOs.",
+    "nftPrice": "This is the total price of the purchased NFTs converted into WEMIX$."
+  },
+  "toast": {
+    "walletCopy": "Wallet address copied."
+  },
+  "filters": "Filters",
+  "empty": {
+    "ownedNft": "You do not hold any NFTs.",
+    "nft": "No collection NFTs.\nCheck our various NFTs in the Marketplace!",
+    "favorites": "No NFTs you've 'liked'.\nCheck our various NFTs in the Marketplace!",
+    "activity": "There is no activity history.",
+    "results": "No results match your search criteria.",
+    "searchDefault": "There are no search results.",
+    "search": "There are no search results for",
+    "nftAlbum": "No collection NFTs.\nCheck our various NFTs in the Marketplace!",
+    "dao": "You are not in any DAOs."
+  },
+  "statusFilter": {
+    "upcoming": "Upcoming",
+    "closed": "Closed",
+    "openForOffers": "Open for Offers",
+    "onAuction": "On Auction",
+    "buyNow": "Buy Now",
+    "notForSale": "Not for Sale",
+    "sales": "Sales",
+    "listings": "Listings",
+    "offers": "Offers",
+    "bidings": "Bidings",
+    "checkout": "Checkout",
+    "transfers": "Transfers",
+    "minted": "Minted"
+  },
+  "NFTAlbum": "My Collection Status",
+  "album": {
+    "title": "My NFT Collection Status",
+    "subTitle": "Here, you can check how many NFTs of the collection you have."
+  },
+  "search": "Look up collection name.",
+  "table": "환불받기",
+  "profileSetting": {
+    "title": "Profile Settings",
+    "desc": "You can set your NFT as your profile picture.",
+    "userName": "Username",
+    "userNamePlaceholder": "Please enter a Username.",
+    "userNameValidCorrect": "This name is available.",
+    "userNameValidNotAllowed": "Entering space and special characters: spaces+F93 and special characters are not allowed.",
+    "userNameValidCount": "Enter between 2-4 Hangeul characters, and 4-16 English alphabets.",
+    "userNameValidAlreadyUse": "This name is being used.",
+    "about": "About",
+    "aboutPlaceholder": "Please enter data in the About field.",
+    "social": "Connect Social Media Account",
+    "socialDesc": "Connect your social media account to verify your account.",
+    "socialButton": "Connect",
+    "disconnectSocial": "Disconnect Social Media Account",
+    "link": "Link",
+    "linkPlaceholder": "Enter website URL.",
+    "asset": "Asset Public Information Range",
+    "public": "Public",
+    "onlyMe": "Only Me",
+    "cancel": "Cancel",
+    "save": "Save",
+    "confirmCancel": "Confirm Cancel Enter",
+    "confirmCancelDesc": "Cancel entering profile?\nIf you cancel, the changes will not be saved.",
+    "close": "Close",
+    "yesClose": "Yes, I will cancel."
+  },
+  "pfp": {
+    "title": "Choose profile picture",
+    "default": "Set default profile",
+    "cancel": "Cancel",
+    "apply": "Apply",
+    "empty1": "You do not have any NFTs in your balance. \nCheck our various NFTs in the Marketplace!",
+    "empty2": "Go to Marketplace",
+    "profile": "profile",
+    "recent": "Newly Added"
+  },
+  "daoHistory": {
+    "title": "History",
+    "failMessage": "Once the period of a DAO Station that has failed to recruit is over, it will automatically be deleted from My Page.",
+    "recruiting": "Joined {{name}} DAO. (Recruiting: {{percent}})%",
+    "balanceAmount": "{{wonder}} and {{Gwonder}} converted into Dollars."
+  },
+  "daoOperate": {
+    "tab": {
+      "1": "Token Use History",
+      "2": "Proposal Participation History",
+      "3": "Discussion Participation History",
+      "4": "History"
+    },
+    "table": {
+      "1": "Classification",
+      "2": "Amount of Claimed Tokens",
+      "3": "Exchange Ratio",
+      "4": "Token Balance",
+      "5": "Date"
+    },
+    "history": {
+      "1": "Station recruiting succeeded.",
+      "2": "Joined Wonder DAO.",
+      "3": "All DAO Tokens have been withdrawn; you have no DAO operation authorities.",
+      "4": "Bought DAO Tokens in WEMIX.Fi and joined Wonder DAO."
+    }
+  },
+  "sorting": {
+    "1": "Recently Active",
+    "2": "Sort by: closing",
+    "3": "Sort by: recent",
+    "4": "Sort by: old",
+    "5": "Highest price",
+    "6": "Lowest price"
+  }
+}

@@ -1,0 +1,50 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: nile-fe-self
+  name: nile-fe-self
+spec:
+  replicas: 1
+  minReadySeconds: 1
+  selector:
+    matchLabels:
+      app: nile-fe-self
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: nile-fe-self
+    spec:
+      containers:
+        - image: nilecr.azurecr.io/nile-fe/www-dev:latest
+          name: nile-fe-self
+          imagePullPolicy: Always
+          resources: { }
+          ports:
+            - containerPort: 3000
+status: { }
+
+---
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: nile-fe-self
+  labels:
+    run: nile-fe-self
+spec:
+  ports:
+    - name: http
+      port: 80
+      targetPort: 3000
+      protocol: TCP
+  selector:
+    app: nile-fe-self
+  type: ClusterIP

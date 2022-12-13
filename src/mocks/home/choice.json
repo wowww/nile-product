@@ -1,0 +1,60 @@
+[
+  {
+    "tag": "home.choice.item.0.tag",
+    "image": "/temp/@temp_pick_thumbnail1.png",
+    "pickTitle": "home.choice.item.0.title",
+    "pickDescription": "home.choice.item.0.desc",
+    "buttonType": [
+      {
+        "buttonText": "home.choice.item.0.button1",
+        "link": "/life/lus"
+      },
+      {
+        "buttonText": "home.choice.item.0.button2",
+        "link": "/marketplace/LUS"
+      }
+    ],
+    "additionLink": [
+      {
+        "image": "/temp/@temp_collection_lus_4.png",
+        "productTitle": "home.choice.item.0.list.0.title",
+        "priceTitle": "home.choice.listCommon.price",
+        "priceValue": "750",
+        "priceUnit": "home.choice.listCommon.unit",
+        "statusTag": ""
+      },
+      {
+        "image": "/temp/@temp_collection_lus_194.png",
+        "productTitle": "home.choice.item.0.list.1.title",
+        "priceTitle": "home.choice.listCommon.price",
+        "priceValue": "1,100",
+        "priceUnit": "home.choice.listCommon.unit",
+        "statusTag": ""
+      }
+    ]
+  },
+  {
+    "tag": "home.choice.item.1.tag",
+    "image": "/temp/@temp_pick_thumbnail2.png",
+    "pickTitle": "home.choice.item.1.title",
+    "pickDescription": "home.choice.item.1.desc",
+    "buttonType": [
+      {
+        "buttonText": "home.choice.item.1.button1",
+        "link": "/life/tangled"
+      }
+    ]
+  },
+  {
+    "tag": "home.choice.item.2.tag",
+    "image": "/temp/@temp_pick_thumbnail3.png",
+    "pickTitle": "home.choice.item.2.title",
+    "pickDescription": "home.choice.item.2.desc",
+    "buttonType": [
+      {
+        "buttonText": "home.choice.item.2.button1",
+        "link": "/dao"
+      }
+    ]
+  }
+]
